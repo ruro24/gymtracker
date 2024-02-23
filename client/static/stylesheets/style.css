@@ -1,0 +1,28 @@
+body {
+
+    margin: 20px;
+    font-family: Nunito;
+}
+
+nav.navbar {
+    height: 150px !important;
+
+}
+
+.navbar-item img {
+    max-height: None;
+}
+.brand {
+    height: 100%;
+
+}
+
+img {
+    height:100%;
+    width:100%;
+}
+
+.box {
+    background-color: #20CD8D;
+    border-radius: 20px;
+}
